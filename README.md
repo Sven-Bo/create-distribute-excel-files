@@ -6,7 +6,7 @@ In this video, I will demonstrate how you can use Python (Pandas) to automate th
 
 ## Video Tutorial
 
-[![YouTube Video](https://img.youtube.com/vi/4CrZUJtjZkc/0.jpg)](https://youtu.be/4CrZUJtjZkc)
+[![YouTube Video](https://img.youtube.com/vi/RGR048I5ZDE/0.jpg)](https://youtu.be/RGR048I5ZDE)
 
 
 ## Author
