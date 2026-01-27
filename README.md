@@ -3,12 +3,9 @@
 
 In this video, I will demonstrate how you can use Python (Pandas) to automate the creation of Excel files, which you can then distribute via email to a list of contacts. To send out the emails, we are going to use the Desktop application of Microsoft Outlook.
 
-
 ## Video Tutorial
 
 [![YouTube Video](https://img.youtube.com/vi/RGR048I5ZDE/0.jpg)](https://youtu.be/RGR048I5ZDE)
-
-
 
 ## More Solutions
 Explore my tools and templates for Excel, automation, and more.
@@ -19,11 +16,7 @@ Explore my tools and templates for Excel, automation, and more.
 - **Website:** [PythonAndVBA](https://pythonandvba.com)
 - **LinkedIn:** [Sven Bosau](https://www.linkedin.com/in/sven-bosau/)
 - **Contact:** [Get in Touch](https://pythonandvba.com/contact)
-## ☕ Support 
-If you appreciate the project and wish to encourage its continued development, consider [supporting my work](https://pythonandvba.com/coffee-donation).
+## Support
+If you find this project helpful, consider buying me a coffee. 
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://pythonandvba.com/coffee-donation)
-
-## Feedback & Collaboration
-For feedback, suggestions, or potential collaboration opportunities, reach out at contact@pythonandvba.com.
-![Logo](https://www.pythonandvba.com/banner-img)
-
